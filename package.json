@@ -1,0 +1,16 @@
+{
+  "name": "NodeEnvTest",
+  "version": "0.0.0",
+  "description": "\"Simple node and gulp node env detection\"",
+  "main": "env_spitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "franleplant@gmail.com",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "gulp": "^3.5.5"
+  }
+}
